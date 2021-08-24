@@ -10,8 +10,8 @@ body { font-family: sans-serif; }
 }
 
 .gallery-cell {
-  width: 33%;
-  height: 200px;
+  width: 15rem;
+  height: 15rem;
   margin-right: 10px;
   background: #8C8;
   counter-increment: gallery-cell;
